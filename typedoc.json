@@ -1,0 +1,8 @@
+{
+  "out": "./docs",
+  "mode": "file",
+  "name": "[libraryNameWithSpacesAndUpperCases]",
+  "theme": "markdown",
+  "readme": "none",
+  "module": "es2015"
+}
