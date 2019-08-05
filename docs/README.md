@@ -1,4 +1,4 @@
-> **[[libraryNameWithSpacesAndUpperCases]](README.md)**
+> **[useInputFormatted](README.md)**
 
 ## Index
 
