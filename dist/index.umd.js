@@ -1,12 +1,12 @@
 /*!
  * use-input-formatted v0.0.0
- * (c) Vitor Luiz Cavalcanti
+ * (c) Vitor Luiz Cavalcanti <vitorluizc@outlook.com> (https://vitorluizc.github.io)
  * Released under the MIT License.
  */
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports) :
   typeof define === 'function' && define.amd ? define(['exports'], factory) :
-  (global = global || self, factory(global['useInputFormatted'] = {}));
+  (global = global || self, factory(global.useInputFormatted = {}));
 }(this, function (exports) { 'use strict';
 
   /**

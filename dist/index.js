@@ -1,6 +1,6 @@
 /*!
  * use-input-formatted v0.0.0
- * (c) Vitor Luiz Cavalcanti
+ * (c) Vitor Luiz Cavalcanti <vitorluizc@outlook.com> (https://vitorluizc.github.io)
  * Released under the MIT License.
  */
 'use strict';
